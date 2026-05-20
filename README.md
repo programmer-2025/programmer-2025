@@ -15,4 +15,5 @@
 | WPF | 2025/8～ |
 | Win32API | 2025/11～ |
 
-
+<br>個人制作の解説チャンネル<br>
+https://www.youtube.com/@it_learningchannel/
