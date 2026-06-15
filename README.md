@@ -1,3 +1,7 @@
+# GitHub Status
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-2025&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=20&count_private=true" height=250><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=programmer-2025&theme=tokyonight" height=250/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmer-2025&theme=tokyonight" />
+
 # プロフィール
 使用している言語
 | 言語  | 開始時期 |
