@@ -1,6 +1,6 @@
-#　プロフィール
-所属:　2025年入学の2年生
-その他（本名など）:　（※インターネット上では非公表）
+# プロフィール
+* 所属:　2025年入学の2年生
+* その他（本名など）:　（※インターネット上では非公表）
 
 # GitHub Status
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-2025&theme=bear&hide_border=false&include_all_commits=true&layout=compact&langs_count=20" height=250><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=programmer-2025&theme=tokyonight" height=250/>
