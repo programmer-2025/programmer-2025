@@ -1,23 +1,25 @@
 # プロフィール
-* 所属:　2025年入学の2年生
-* その他（本名など）:　（※インターネット上では非公表）
+* 学生プログラマーのprogrammer-2025です。よろしくお願いいたします。
 
-# GitHub Status
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-2025&theme=bear&hide_border=false&include_all_commits=true&layout=compact&langs_count=20" height=250><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=programmer-2025&theme=tokyonight" height=250/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmer-2025&theme=tokyonight" />
+# スキル
+## プログラミング
+| スキル  | 開始時期 | 主要な作品 | その他 |
+| ------------- | ------------- | ------------- | ------------- | 
+| Java  | 2020/8～  | https://github.com/programmer-2025/Earthquake_AndroidApp | |  
+| Git、Github | 2024~ | | |
+| C・C++  | 2025/4～  | https://github.com/programmer-2025/DirectX_Engine | |
+| C# | 2025/10~ | https://github.com/programmer-2025/Earthquake_WPFApp |
+| Kotlin | 2025/12~ | |
+| HTML・CSS・JavaScript | 2026/1~ | https://github.com/programmer-2025/DirectX11_Document | |
+| Python | 2026/5~ | | |
 
-# その他
-使用している言語
-| 言語  | 開始時期 |
+## その他
+| スキル  | 開始時期 | その他 |
+| ------------- | ------------- | ------------- | 
+| Ubuntu  |   |  |
+
+## ソフトウェア・ツール
+| スキル  | 開始時期 |
 | ------------- | ------------- | 
-| Java  | 2020/8～  |
-| C・C++  | 2025/4～  |
-| C# | 2025/8~ |
-| HTML・CSS・JavaScript | 2026/1~ |
-
-<br>個人制作の解説チャンネル<br>
-https://www.youtube.com/@it_learningchannel/
-
-
-# フォローについて
-直線関わりない方もフォローさせていただきます!
+| Maya  | 2025/4～  |
+| Blender  | 2026/4～  |
