@@ -2,7 +2,7 @@
 * 学生プログラマーのprogrammer-2025です。よろしくお願いいたします。
 
 ## リンク集
-* 詳細なプロフィール： https://github.com/programmer-2025/home
+* 詳細なプロフィール： https://programmer-2025.github.io/home/
 
 # スキル
 ## プログラミング
