@@ -9,7 +9,7 @@
 | スキル  | 開始時期 | 主要な作品 | その他 |
 | ------------- | ------------- | ------------- | ------------- | 
 | Java  | 2020/8～  | https://github.com/programmer-2025/Earthquake_AndroidApp | |  
-| Git、Github | 2024~ | | |
+| Git、Github | 2020/9~ | | |
 | C・C++  | 2025/4～  | https://github.com/programmer-2025/DirectX_Engine | |
 | C# | 2025/10~ | https://github.com/programmer-2025/Earthquake_WPFApp |
 | Kotlin | 2025/12~ | |
