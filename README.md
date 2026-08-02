@@ -11,7 +11,7 @@
 | Java  | 2020/8～  | ★★★☆☆ |https://github.com/programmer-2025/Earthquake_AndroidApp | |  
 | C・C++  | 2025/4～  | ★★★☆☆ | https://github.com/programmer-2025/DirectX_Engine | |
 | C# | 2025/10~ | ★★☆☆☆ | https://github.com/programmer-2025/Earthquake_WPFApp |  |
-| Kotlin | 2025/12~ | ★☆☆☆☆ | | |
+| Kotlin | 2025/12~ | ★☆☆☆☆ | https://github.com/programmer-2025/ConverterJapaneseText_Kotlin/ | |
 | HTML・CSS・JavaScript | 2026/1~ | ★★☆☆☆ | https://github.com/programmer-2025/DirectX11_Document | |
 | Python | 2026/5~ | ★☆☆☆☆ | https://github.com/programmer-2025/ItemSearch_Django | |
 
